@@ -1,0 +1,13 @@
+08/04/2017 22:28:58 devpinoyLogger OR Properties file loaded
+08/04/2017 22:28:58 devpinoyLogger Config Properties file loaded
+08/04/2017 22:29:08 devpinoyLogger Firefox Launched
+08/04/2017 22:29:11 devpinoyLogger Navigated to : http://gmail.com
+08/04/2017 22:29:22 devpinoyLogger Unable to locate element: {"method":"id","selector":"next1"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-FNF69NB', ip: '192.168.1.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: decf1b12-45e8-429f-acef-477f01255007
+*** Element info: {Using=id, value=next1}
